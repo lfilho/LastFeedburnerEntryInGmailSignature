@@ -2,7 +2,7 @@
 // @name          Last Feedburner entry in Gmail signature
 // @version       1.0
 // @namespace     http://gmail.com
-// @description   Fetches the last entry on a Feedburner feed and insert it to you Gmail signature with optional extra HTML you want
+// @description   Fetches the last entry on a Feedburner feed and insert it to you Gmail signature with optional extra HTML you want. Github: https://github.com/lfilho/LastFeedburnerEntryInGmailSignature
 // @include       http://mail.google.com/*
 // @include       https://mail.google.com/*
 // @include       http://gmail.google.com/*
