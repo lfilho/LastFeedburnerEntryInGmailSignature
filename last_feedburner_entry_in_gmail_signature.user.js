@@ -10,7 +10,8 @@
 // @author        lfilho@gmail.com
 // ==/UserScript==
 
-var urlString = 'http://feeds.feedburner.com/luizmarelo?format=sigpro'
+// Edit the ##YourFeed## with your feed name
+var urlString = 'http://feeds.feedburner.com/##YourFeed##?format=sigpro'
 
 var allBody = document.evaluate("//body[@class='editable  LW-avf']", document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
 
