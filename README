@@ -1,10 +1,4 @@
-= ABOUT
+# ABOUT
 This is GreaseMonkey "user script" (a.k.a. GreaseMonkey script) that will fetch the last entry on a FeedBurner feed and insert it to your Gmail Signature.
 
-= REQUIREMENTS
-  - In order to run you will need GreaseMonkey installed in your browser: http://userscripts.org/about/installing
-  - A Feedburner feed, with the BuzzBoost option enabled (at the Publicize section) with the number of items to display set to 1.
-
-= INSTALLATION and USAGE
- - You may install the script from http://userscripts.org/scripts/show/118317
- - Check http://userscripts.org/about/installing on how to install user scripts
+To more detailed information on requirements, installation and usage, head to our wiki: https://github.com/lfilho/LastFeedburnerEntryInGmailSignature/wiki
